@@ -6,4 +6,5 @@ Currency watcher Xbar plugin
 * Install [NodeJS](https://nodejs.org/en/download/)
 
 ## Installation
-Move `goldWatcher.1m.js` file to Xbar plugins path ` ~/Library/'Application Support'/xbar/plugins`
+* Move `goldWatcher.1m.js` file to Xbar plugins path ` ~/Library/'Application Support'/xbar/plugins`
+* Run that code in terminal: `chmod +x goldWatcher.1m.js`
